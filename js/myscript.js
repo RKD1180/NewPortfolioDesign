@@ -1,9 +1,9 @@
 var typed = new Typed(".detail", {
   strings: [
-    "Website Designer",
     "Website Developer",
-    "Django Developer",
+    "MERN Stack Developer",
     "Wordpress Developer",
+    "Front-End Developer",
   ],
   backSpeed: 40,
   typeSpeed: 40,
@@ -12,10 +12,10 @@ var typed = new Typed(".detail", {
 
 var skills = {
   ht: 90,
-  cs: 80,
-  js: 60,
-  rc: 50,
-  jq: 60,
+  cs: 90,
+  js: 90,
+  rc: 90,
+  jq: 90,
 };
 
 $.each(skills, function (key, value) {
